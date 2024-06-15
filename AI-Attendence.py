@@ -6,6 +6,8 @@ from datetime import datetime
 
 # from PIL import ImageGrab
 
+# **Note**: Create a folder named "ImageList" and add decent and clean images of the candidates.
+
 path = 'ImageList'
 images = []
 classNames = []
